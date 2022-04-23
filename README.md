@@ -36,5 +36,10 @@
 <img align="left" width="26px" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;" />
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampurankishoresrivastava&show_icons=true&locale=en" alt="sampurankishoresrivastava" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampurankishoresrivastava&" alt="sampurankishoresrivastava" /></p>
 
 ---
