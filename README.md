@@ -1,5 +1,7 @@
 # Hi there, I'm Sampuran Kishore Srivastava👋
+
 ## I'm a Tech Enthusiast and frontend Developer!
+
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other Developers.
 - 📫 How to reach me:sampuran01122001@gmail.com
@@ -10,11 +12,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/SampuranKishore#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/SampuranKishore#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SampuranKishore#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sampuran-kishore-srivastava-723b36212/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sampuran-kishore-srivastava-723b36212/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sampuran-kishore-srivastava-723b36212/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sampuran-kishore-srivastava-723b36212/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -23,3 +25,8 @@
 
 <br />
 <br />
+
+---
+
+[twitter]: https://twitter.com/SampuranKishore
+[linkedin]: https://linkedin.com/in/sampuran-kishore-srivastava-723b36212/
