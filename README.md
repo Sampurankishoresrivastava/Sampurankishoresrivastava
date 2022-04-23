@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/SampuranKishore#gh-light-mode-only)
+[![website](https://img.icons8.com/ios/344/twitter--v1.png)](https://twitter.com/SampuranKishore#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SampuranKishore#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sampuran-kishore-srivastava-723b36212/#gh-light-mode-only)
