@@ -1,25 +1,18 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# Hi there, I'm Sampuran Kishore Srivastava👋
+<h1> Hi there, I'm Sampuran Kishore Srivastava👋
 
 
-## I'm a Tech Enthusiast and frontend Developer!
+ I'm a Tech Enthusiast and frontend Developer! </h1>
 
-
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate with other Developers.
-- 📫 How to reach me:sampuran01122001@gmail.com
-- ⚡ Fun fact: I love to draw and sing.
-- 💬 Ask me about
-- 😄 Pronouns: He/Him
-- ✨ Originally from India.
+<h3>I am a sophomore at Maharaja Surajmal Institute of Technology and Management.I'm a Btech Student with specialization Information Technology.I am a Full Stack Web Developer looking to solve real world problems.I have a passion of learning and sharing my knowledge with others.I am currently working on Backend.I have contributed in Hacktoberfest 2021 and recieved some awsome swags.I have completed 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program 2021. I love listening to songs of Arijit Singh while coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/sampurankishoresrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sampurankishoresrivastava" height="30" width="40" /></a>
 <a href="https://twitter.com/sampurankishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampurankishore" height="30" width="40" /></a>
