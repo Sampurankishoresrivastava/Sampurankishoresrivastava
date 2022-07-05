@@ -45,7 +45,6 @@
 <img alt="opencv" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />
 <br>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
 
 <h3> My Github Stats </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampurankishoresrivastava&show_icons=true&locale=en" alt="sampurankishoresrivastava" /></p>
@@ -53,4 +52,4 @@
 ####
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampurankishoresrivastava&" alt="sampurankishoresrivastava" /></p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
