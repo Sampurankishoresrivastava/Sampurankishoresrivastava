@@ -29,7 +29,7 @@
 
 
 <h3> Languages and Tools: </h3>
-
+<p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -44,7 +44,7 @@
 <img align="left" width="26px" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;" />
 <img align="left" width="26px" alt="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />
 <br>
-
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
 
 ####
