@@ -5,7 +5,10 @@
 
  I'm a Full Stack Web Developer! </h1>
 
-<h3>I am a sophomore at Maharaja Surajmal Institute of Technology.I'm a Btech Student with specialization Information Technology.I am a Full Stack Web Developer looking to solve real world problems.I have a passion of learning and sharing my knowledge with others.I am currently working on Backend.I have contributed in Hacktoberfest 2021 and recieved some awsome swags.I have completed 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program 2021. I love listening to songs of Arijit Singh while coding.</h3>
+<h3>I am an 3rd year IT Undergrad. I'm a tech enthusiast having keen interest in software development. I strive to learn and innovate with a vision to contribute impactfully in real world problem solving. 
+The Idea of being a part of world reforming technology highly fascinates me. 
+I'm a motivated student, always up for challenges, seeking opportunities to learn and grow in life. 
+I'm currently exploring Web Development and problem solving with DSA..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
