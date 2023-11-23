@@ -7,7 +7,7 @@
 
  I'm a Full Stack Web Developer! </h1>
 
-<h3>I am an 3rd year IT Undergrad. I'm a tech enthusiast having keen interest in software development. I strive to learn and innovate with a vision to contribute impactfully in real world problem solving. 
+<h3>I am a 4th year IT Undergrad. I'm a tech enthusiast having keen interest in software development. I strive to learn and innovate with a vision to contribute impactfully in real world problem solving. 
 The Idea of being a part of world reforming technology highly fascinates me. 
 I'm a motivated student, always up for challenges, seeking opportunities to learn and grow in life. 
 I'm currently exploring Web Development and problem solving with DSA..</h3>
@@ -38,22 +38,22 @@ I'm currently exploring Web Development and problem solving with DSA..</h3>
 
  <table border = "0">
   <tr>
- <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&theme=radical" />
+ <a href="https://github.com/Sampurankishoresrivastava/github-readme-stats">
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sampurankishoresrivastava&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" />
+<a href="https://github.com/Sampurankishoresrivastava/github-readme-stats">
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampurankishoresrivastava&" />
 </a>
     </tr>
 </table>
 <p align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" />
  
 
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://ko-fi.com/akankshamishra73"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akankshamishra73" /></a></p><br><br>
+<p align="center"><a href="https://ko-fi.com/Sampurankishoresrivastava"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sampurankishoresrivastava" /></a></p><br><br>
 </p> 
 
 
