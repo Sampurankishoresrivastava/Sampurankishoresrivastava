@@ -1,3 +1,5 @@
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1> Hi there, I'm Sampuran👋
@@ -13,23 +15,6 @@ I'm currently exploring Web Development and problem solving with DSA..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
-
-
-<h3 align="left">Connect with me</h3>
-<p align="center">
-<a href="https://dev.to/sampurankishoresrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sampurankishoresrivastava" height="30" width="40" /></a>
-<a href="https://twitter.com/sampurankishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampurankishore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://wwwsampuran-kishore-srivastava-723b36212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwwsampuran-kishore-srivastava-723b36212/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/httusers/18811158/sampuran-kishore-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="httusers/18811158/sampuran-kishore-srivastava" height="30" width="40" /></a>
-<a href="https://medium.com/@sampuran01122001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sampuran01122001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/users/sampuran_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="users/sampuran_2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sampuran01122001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sampuran01122001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sampuran01122001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sampuran01122001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sampuran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sampuran/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sampuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sampuran" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://asampuran01122001/saved-articles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://asampuran01122001/saved-articles/" height="30" width="40" /></a>
-</p>
-
 
 <h3> Tech Stack </h3>
 <p align="center">
@@ -49,13 +34,29 @@ I'm currently exploring Web Development and problem solving with DSA..</h3>
 <br>
 </p>
 
-<h3> My Github Stats </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampurankishoresrivastava&show_icons=true&locale=en" alt="sampurankishoresrivastava" /></p>
+<h3>My Github Stats </h3>
 
-####
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampurankishoresrivastava&" alt="sampurankishoresrivastava" /></p>
+ <table border = "0">
+  <tr>
+ <a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&theme=radical" />
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
+<a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" />
+</a>
+    </tr>
+</table>
+<p align = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+ 
+
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sampuran01s?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sampuran01s?new=1" /></a></p><br><br>
+<p align="center"><a href="https://ko-fi.com/akankshamishra73"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akankshamishra73" /></a></p><br><br>
+</p> 
+
+
+
+
+<p align = "center">
