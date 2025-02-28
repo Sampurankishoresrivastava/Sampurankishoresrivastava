@@ -7,10 +7,7 @@
 
  I'm a Full Stack Web Developer! </h1>
 
-<h3>I am a 4th year IT Undergrad. I'm a tech enthusiast having keen interest in software development. I strive to learn and innovate with a vision to contribute impactfully in real world problem solving. 
-The Idea of being a part of world reforming technology highly fascinates me. 
-I'm a motivated student, always up for challenges, seeking opportunities to learn and grow in life. 
-I'm currently exploring Web Development and problem solving with DSA..</h3>
+<h3>I am a Software Developer skilled in JavaScript, React.js, Node.js, C++, Java, and MySQL, with a proven track record in optimizing performance and building user-focused applications. A strong problem solver and competitive coder, I have solved 500+ problems on LeetCode, showcasing my algorithmic expertise. Passionate about learning technology, I love leveraging modern tools to deliver impactful and efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
